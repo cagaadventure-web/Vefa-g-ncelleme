@@ -1,7 +1,8 @@
+XML
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.8.0.0</version>
-  <url>https://github.com/cagaadventure-web/Vefa-g-ncelleme/releases/download/v18/GuncelSurum.zip</url>
+  <version>1.7.0.0</version>
+  <url>BURAYA_V1.7_ZIP_LINKINI_YAPISTIR</url>
   <changelog>https://github.com/cagaadventure-web/Vefa-g-ncelleme</changelog>
   <mandatory>false</mandatory>
 </item>
